@@ -242,10 +242,5 @@ function deleteTweet(){
     xhr.send(idToDelete);
   }
 
-function test_print(){
-
-         console.log(“test code”)
-
-}
-
+  
 
